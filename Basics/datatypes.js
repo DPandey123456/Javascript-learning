@@ -10,7 +10,7 @@ let loggedIn = true
 
 
 // type od data type
-// nuber = 2 to power of 53
+// nuber = 2 to power of 53 -1
 // bigint 
 // string , use is dubble coree
 //boolean  = true / false
